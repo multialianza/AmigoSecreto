@@ -5,6 +5,7 @@ Este proyecto es una aplicación web sencilla para ordenar Amigos Secretos. Los 
 
 
 Estructura del Proyecto:
+
 El proyecto tiene la siguiente estructura de archivos:
 
 1.-	index.html: El archivo HTML principal que contiene la estructura de la página.
@@ -14,7 +15,8 @@ El proyecto tiene la siguiente estructura de archivos:
 3.-	app.js: Archivo JavaScript que contiene la lógica de la aplicación.
 
 
-¿Cómo usar?
+¿Cómo usar?:
+
 1.	Abre index.htmlen tu navegador web.
 2.	Escribe los nombres de tus amigos en el campo de entrada y haz clic en "Añadir".
 3.	Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para seleccionar un amigo secreto al azar.
@@ -32,7 +34,8 @@ Pantalla Resultado
 
 
 
-Sonidos y Efectos
+Sonidos y Efectos:
+
 El proyecto incluye sonidos personalizados para mejorar la experiencia del usuario:
 
 a.-	Sonido de éxito : Se reproduce al agregar un amigo o al realizar un sorteo exitoso.
