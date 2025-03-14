@@ -6,8 +6,11 @@ Este proyecto es una aplicación web sencilla para ordenar Amigos Secretos. Los 
 
 Estructura del Proyecto:
 El proyecto tiene la siguiente estructura de archivos:
+
 1.-	index.html: El archivo HTML principal que contiene la estructura de la página.
+
 2.-	styles.css: Archivo CSS que contiene los estilos de la página.
+
 3.-	app.js: Archivo JavaScript que contiene la lógica de la aplicación.
 
 
@@ -33,7 +36,10 @@ Sonidos y Efectos
 El proyecto incluye sonidos personalizados para mejorar la experiencia del usuario:
 
 a.-	Sonido de éxito : Se reproduce al agregar un amigo o al realizar un sorteo exitoso.
+
 b.-	Sonido de error : Se reproduce cuando ocurre un error, como intentar agregar un nombre vacío.
+
 c.-	Sonido de ganador : Se reproduce al seleccionar al amigo secreto.
+
 d.-	Confetti: Se reproduce este efecto  cada vez que se selecciona un amigo secreto.
 
