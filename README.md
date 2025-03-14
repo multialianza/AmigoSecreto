@@ -3,11 +3,13 @@ Challenger ONE Oracle Next Education
 
 Este proyecto es una aplicación web sencilla para ordenar Amigos Secretos. Los usuarios pueden agregar nombres de amigos y luego ordenar un amigo secreto al azar.
 
+
 Estructura del Proyecto:
 El proyecto tiene la siguiente estructura de archivos:
-•	index.html: El archivo HTML principal que contiene la estructura de la página.
-•	styles.css: Archivo CSS que contiene los estilos de la página.
-•	app.js: Archivo JavaScript que contiene la lógica de la aplicación.
+1.-	index.html: El archivo HTML principal que contiene la estructura de la página.
+2.-	styles.css: Archivo CSS que contiene los estilos de la página.
+3.-	app.js: Archivo JavaScript que contiene la lógica de la aplicación.
+
 
 ¿Cómo usar?
 1.	Abre index.htmlen tu navegador web.
@@ -29,8 +31,9 @@ Pantalla Resultado
 
 Sonidos y Efectos
 El proyecto incluye sonidos personalizados para mejorar la experiencia del usuario:
-•	Sonido de éxito : Se reproduce al agregar un amigo o al realizar un sorteo exitoso.
-•	Sonido de error : Se reproduce cuando ocurre un error, como intentar agregar un nombre vacío.
-•	Sonido de ganador : Se reproduce al seleccionar al amigo secreto.
-•	Confetti: Se reproduce este efecto  cada vez que se selecciona un amigo secreto.
+
+a.-	Sonido de éxito : Se reproduce al agregar un amigo o al realizar un sorteo exitoso.
+b.-	Sonido de error : Se reproduce cuando ocurre un error, como intentar agregar un nombre vacío.
+c.-	Sonido de ganador : Se reproduce al seleccionar al amigo secreto.
+d.-	Confetti: Se reproduce este efecto  cada vez que se selecciona un amigo secreto.
 
